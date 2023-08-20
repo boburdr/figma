@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="354" height="364" fill="none">
+  <g clip-path="url(#a)">
+    <rect width="354" height="364" fill="#755CDE" rx="8"/>
+    <path fill="#552049" d="M202 24h64v128h-64z"/>
+    <circle cx="234" cy="56" r="14" stroke="#FFF7F0" stroke-width="4"/>
+    <rect width="64" height="32" x="266" y="56" fill="#F6A560" rx="16"/>
+    <path fill="#61C4B7" fill-rule="evenodd" d="m234 184 32 32v-32h-32Zm32-32 32 32v-32h-32Z" clip-rule="evenodd"/>
+    <circle cx="314" cy="72" r="14" stroke="#FFF7F0" stroke-width="4"/>
+    <circle cx="314" cy="72" r="14" stroke="#FFF7F0" stroke-width="4"/>
+    <path fill="#030303" d="M266 38h4v4h-4zm4 0h4v4h-4zm24 0h4v4h-4z"/>
+    <path fill="#755CDE" fill-rule="evenodd" d="m298 24 32 32V24h-32Z" clip-rule="evenodd"/>
+    <path fill="#030303" d="M298 38h4v4h-4zm24 0h4v4h-4zm4 0h4v4h-4z"/>
+    <circle cx="282" cy="104" r="14" stroke="#030303" stroke-width="4"/>
+    <path fill="#EB7565" d="M298 88h32v32h-32z"/>
+    <path fill="#FFF7F0" fill-rule="evenodd" d="m234 120 96 96v-96h-96Z" clip-rule="evenodd"/>
+    <path fill="#030303" d="M202 152h4v4h-4zm14 0h4v4h-4zm14 0h4v4h-4zm-28 14h4v4h-4zm14 0h4v4h-4zm14 0h4v4h-4zm-28 14h4v4h-4zm14 0h4v4h-4zm14 0h4v4h-4z"/>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <path fill="#fff" d="M0 0h354v364H0z"/>
+    </clipPath>
+  </defs>
+</svg>
